@@ -23,3 +23,13 @@ Once the model is built, the recommendations are made accessible through a clean
 The API is lightweight, easy to understand, and designed to be extendable. It’s a great starting point for anyone who wants to learn the basics of building machine learning-powered services and exposing them over the web.
 
 #outputs 
+
+
+![Image](https://github.com/user-attachments/assets/506813e0-0402-4f3e-a6dc-1cd0c2696979)
+
+
+
+
+
+
+![Image](https://github.com/user-attachments/assets/2773242b-6424-4541-9b3c-8739451ebe3d)
